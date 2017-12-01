@@ -27,7 +27,7 @@ BlockStatic.propTypes = {
 }
 
 BlockStatic.contextTypes = {
-  datasets = PropTypes.object,
+  datasets: PropTypes.object,
 }
 
 export default BlockStatic;
