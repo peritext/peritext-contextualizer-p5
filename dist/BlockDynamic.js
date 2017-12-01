@@ -49,7 +49,7 @@ exports.default = function (_ref) {
       {
         className: 'peritext-contextualization peritext-contextualization-block peritext-contextualization-web peritext-contextualizer-p5'
       },
-      '☠'
+      '\u2620\u2620\u2620\u2620'
     );
   }
 };
