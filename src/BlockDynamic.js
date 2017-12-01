@@ -39,7 +39,7 @@ export default ({
         <figure
           className="peritext-contextualization peritext-contextualization-block peritext-contextualization-web peritext-contextualizer-p5"
         >
-          ☠
+          ☠☠☠☠
         </figure>
       )
     }
